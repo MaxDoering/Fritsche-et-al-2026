@@ -16,6 +16,6 @@ The earthworm *Eisenia fetida* is a widely used model organism for environmental
 
 The material consist of 
 
-* a folder containing all [**Data**](https://github.com/MaxDoering/Fritsche-et-al-2026/Data)
-* a folder containinng all [**R Code**](https://github.com/MaxDoering/Fritsche-et-al-2026/Code)
-* a file giving [**information about software and package versions**](https://github.com/MaxDoering/Fritsche-et-al-2026) used for the published analysis and illustration
+* a folder containing all [**Data**](https://github.com/MaxDoering/Fritsche-et-al-2026/tree/main/Data)
+* a folder containinng all [**R Code**](https://github.com/MaxDoering/Fritsche-et-al-2026/tree/main/Code)
+* a file giving [**information about software and package versions**](https://github.com/MaxDoering/Fritsche-et-al-2026/blob/main/Fritsche_et_al_2026_session_info.txt) used for the published analysis and illustration
